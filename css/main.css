@@ -1551,8 +1551,8 @@ header .logo a {
 }
 
 .about-content .skills li{
-	padding: 10px 20px;
-    margin: 0 10px 20px 10px;
+	padding: 1px 10px;
+    margin: 0 10px 10px 10px;
     background: rgba(153, 153, 153, 0.2);
 	list-style: none;
 	width: fit-content;
